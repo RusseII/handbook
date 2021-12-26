@@ -1,5 +1,5 @@
 # Team
 ## Engineering
   * [Jordan Meyer](./jordanmeyer.md)
-  * Russell Ratcliffe
+  * [Russell Ratcliffe](./russellratcliffe.md)
   * Kyle Trusler
