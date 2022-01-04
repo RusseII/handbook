@@ -9,6 +9,7 @@ Team members are given the responsibility and freedom to own projects and initia
 In action, this means we:
 
 * Adopt an owner mentality for both our work and the company.
+* Whenever presenting a problem to the team, also present a potential solution.
 * Think cross-functionally and seek to “connect the dots” across the organization.
 * Always keep the big picture in mind.
 * Trust our teammates to own and drive projects to successful completion.
