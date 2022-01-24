@@ -1,4 +1,4 @@
-# A Porter team member's Guide to Time Off
+# Paid Time Off
 As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way.
 1. We have a "no ask, must tell" time off policy. This means that:
     * What we care about are your results, not how long you work. While you don't need to ask approval for time off, it shouldn’t be at the expense of business getting done. Please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity.  We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time.
